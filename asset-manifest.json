@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://kishan3127.github.io/csb-tdoiu/static/css/main.2f8bb622.chunk.css",
-    "main.js": "https://kishan3127.github.io/csb-tdoiu/static/js/main.1a3f88da.chunk.js",
-    "main.js.map": "https://kishan3127.github.io/csb-tdoiu/static/js/main.1a3f88da.chunk.js.map",
+    "main.js": "https://kishan3127.github.io/csb-tdoiu/static/js/main.971281a8.chunk.js",
+    "main.js.map": "https://kishan3127.github.io/csb-tdoiu/static/js/main.971281a8.chunk.js.map",
     "runtime-main.js": "https://kishan3127.github.io/csb-tdoiu/static/js/runtime-main.1e890c62.js",
     "runtime-main.js.map": "https://kishan3127.github.io/csb-tdoiu/static/js/runtime-main.1e890c62.js.map",
     "static/js/2.fe7b51d7.chunk.js": "https://kishan3127.github.io/csb-tdoiu/static/js/2.fe7b51d7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1e890c62.js",
     "static/js/2.fe7b51d7.chunk.js",
     "static/css/main.2f8bb622.chunk.css",
-    "static/js/main.1a3f88da.chunk.js"
+    "static/js/main.971281a8.chunk.js"
   ]
 }
